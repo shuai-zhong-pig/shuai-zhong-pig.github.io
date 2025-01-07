@@ -1,13 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Shuai ZHONG 钟帅"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+During 2018-2022, I got educated in Sichuan Agricultural University, and did many field experiments of citrus and blueberry. At this stage, I know bioinformatics and was involved in a project of RNA-seq and plants gene family analysis. I did well in my undergraduate years, graduated with outstanding graduate and got postgraduate recommendation to [Sino-Danish College (SDC)](https://sdc.university/), University of Chinese Academy of Science (UCAS).
+
+In SDC, I systematically studied bioinformatics and learned about cutting-edge research with help of professors from China and Denmark. Now, I am a master student at the Beijing Institute of Genomics, CAS, major in Genomics, supervised by [Prof. Ying YANG](https://www.researchgate.net/profile/Ying-Yang-19), [Prof. Yun-Gui YANG](http://english.big.cas.cn/sourcedb/fs/BIG_GPM/202310/t20231031_445001.html). 
+
+My research interests lie on epigenetics, especially m6A and single cell RNA-seq. I am handling three projects, including epigenetic regulation on oocyte and granule cells, using multi-omics to reveal regulatory mechanism of m6A in alveolar macrophage. Recently, I have been learning about course of artificial intelligence. In the future research, I want to do research connected with epigenetics and scRNA-seq, and I also want to explore the application of AI in bioinformatics.
+
+Lately, I’ve been finished my thesis defense of Technical University of Denmark. And I’ve been preparing my master thesis in CAS, and looking for a position in the following research trip. 
+
 
 A data-driven personal website
 ======
