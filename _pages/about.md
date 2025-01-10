@@ -7,14 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-During 2018-2022, I got educated in Sichuan Agricultural University, and did many field experiments of citrus and blueberry. At this stage, I know bioinformatics and was involved in a project of RNA-seq and plants gene family analysis. I did well in my undergraduate years, graduated with outstanding graduate and got postgraduate recommendation to [Sino-Danish College (SDC)](https://sdc.university/), University of Chinese Academy of Science (UCAS).
+I'm a postgraduate from [Beijing Institute of Genomics](http://english.big.cas.cn/), Chinese Academy of Sciences([CAS](https://english.cas.cn/)). In addition, I am part of the Sino-Danish Center ([SDC](https://sdc.university/)) joint-master’s program and have obtained a Master’s degree from the Technical University of Denmark ([DTU](https://www.dtu.dk/english)), achieving the highest grade (12) in thesis defense.
 
-From 2022-now, In SDC, I systematically studied bioinformatics and learned about cutting-edge research with help of professors from China and Denmark. Now, I am a master student at the Beijing Institute of Genomics, CAS, major in Genomics, supervised by Prof. [Ying YANG](https://www.researchgate.net/profile/Ying-Yang-19), Prof. [Yun-Gui YANG](http://english.big.cas.cn/sourcedb/fs/BIG_GPM/202310/t20231031_445001.html). 
-Over the pasting three years, I undertook the data analysis in three projects, focused on epigenetics and scRNA-seq on germ cells and macrophages. My research has allowed me to explore the intricate regulatory roles of RNA modifications in development and immune homeostasis. Moreover, I am currently learning to apply AI techniques to biological datasets and am eager to delve deeper into this area in the future. For more details about my academic background and experiences, please see my web.
+I am fortunate to be advised by Prof. [Ying YANG](https://www.researchgate.net/profile/Ying-Yang-19), Prof. [Yun-Gui YANG](http://english.big.cas.cn/sourcedb/fs/BIG_GPM/202310/t20231031_445001.html). My research interest includes epigenetics, scRNA-seq and AI, you can see my detailed research background in XXX.
 
-Lately, I’ve been finished my thesis defense of Technical University of Denmark with highest grade 12. And I’ve been preparing my master thesis in CAS, and looking for a position in the following research trip. 
-
----
+Lately, I’ve been preparing my master thesis in CAS, and looking for a position in the following research trip. 
 
 Timeline
 ======
