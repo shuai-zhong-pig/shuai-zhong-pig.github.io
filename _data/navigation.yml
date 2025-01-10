@@ -7,9 +7,6 @@
 main:
   - title: "Research Projects"
     url: /publications/
-
+    
   - title: "Hobbies"
-    url: /talks/    
-
-  - title: "CV"
     url: /cv/
