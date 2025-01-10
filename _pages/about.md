@@ -11,11 +11,4 @@ I'm a postgraduate from [Beijing Institute of Genomics](http://english.big.cas.c
 
 I am fortunate to be advised by Prof. [Ying YANG](https://www.researchgate.net/profile/Ying-Yang-19), Prof. [Yun-Gui YANG](http://english.big.cas.cn/sourcedb/fs/BIG_GPM/202310/t20231031_445001.html). My research interest includes epigenetics, scRNA-seq and AI, you can see my detailed research background in XXX.
 
-Lately, I’ve been preparing my master thesis in CAS, and looking for a position in the following research trip. 
-
-Timeline
-======
-
-
-
-JUN.2018 - Sep.2022  Studying in Sichuan Agricultural University
+Lately, I’ve been preparing my master thesis defense in CAS, and looking for a position in the following research trip. 
