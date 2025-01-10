@@ -28,4 +28,4 @@ Skills
   * Algorithm: Logistic Regression; SVM; mechanism of machine learning
 * Experiment skills
   * DNA/RNA extraction; West blot; Plant tissue culture
-  * Hobbies: Guitar; Piano; Lure Fishing; Cycling; fitness
+* Hobbies: Guitar; Piano; Lure Fishing; Cycling; fitness
