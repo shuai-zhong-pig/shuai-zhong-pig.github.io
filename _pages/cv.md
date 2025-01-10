@@ -9,56 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
+You can see my full CV in [there]()
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Genomics, University of Chinese Academy of Sciences, Jun.2025 (expected)
+* M.S. in Bioinformatics, Technical University of Denmark, Jan.2025
+* B.A. in Horticulture, Sichuan Agricultural University, Jun.2022
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Languages
+  * Chinese (native)
+  * English (proficient, IELTS 6.5 in 2020, CET-6 594) 
+* Bioinformatics
+  * Sequencing workflow: RNA-seq; scRNA-seq; proteomics; ATAC-seq; CUT&Tag; MeRIP-seq; scm6A-seq
+  * Programming: R; Shell; Python
+  * Algorithm: Logistic Regression; SVM; mechanism of machine learning
+* Experiment skills
+  * DNA/RNA extraction; West blot; Plant tissue culture
+  * Hobbies: Guitar; Piano; Lure Fishing; Cycling; fitness
